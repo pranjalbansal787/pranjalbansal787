@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pranban12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xHbuw75smEHPwCcMtzIgQFuy0XdJDU4q/view?usp=drive_link](https://drive.google.com/file/d/1xHbuw75smEHPwCcMtzIgQFuy0XdJDU4q/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17fARgKo9np5rf9X8cqLAsut8zhcW581G/view](https://drive.google.com/file/d/17fARgKo9np5rf9X8cqLAsut8zhcW581G/view)
 
 - ⚡ Fun fact **I once took a hat-trick in a friendly neighborhood cricket match, proving that my skills extend beyond the keyboard to the cricket pitch! Whether it's optimizing code or perfecting my six over mid-on, I'm always up for a good innings in both coding and cricket.**
 
