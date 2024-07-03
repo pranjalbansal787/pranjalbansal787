@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://pranjal-portfolio-rho.vercel.app/](https://pranjal-bansal-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://pranjal-portfolio-rho.vercel.app/](https://pranjal-bansal-portfolio.vercel.app/)]
 
 - 💬 Ask me about **ReactJs,Javascript**
 
