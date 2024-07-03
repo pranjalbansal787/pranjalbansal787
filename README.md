@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Pranjal Bansal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 Work Experience ** Software Developer @ Safar**
+- 🔭 Work Experience ** Software Developer @ Safar **
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [[https://pranjal-portfolio-rho.vercel.app/](https://pranjal-bansal-portfolio.vercel.app/)]
+- 👨‍💻 All of my projects are available at [[https://pranjal-bansal-portfolio.vercel.app/](https://pranjal-bansal-portfolio.vercel.app/)]
 
 - 💬 Ask me about **ReactJs,Javascript**
 
