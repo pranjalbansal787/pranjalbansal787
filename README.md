@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pranjal Bansal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 Work Experience ** Software Developer @ Manufac Analytics **
+- 🔭 Work Experience **Software Developer @ Manufac Analytics**
 
 - 🌱 I’m currently learning **Angular**
 
